@@ -4,4 +4,3 @@ numpy
 PyYAML
 flask
 scipy
--e .
